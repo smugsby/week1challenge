@@ -4,11 +4,11 @@
 A marketing agency wants a codebase that follows accessibilitiy standards for website SEO. 
 
 ## Acceptance Criteria
-Semantic HTML elements
-Logical structure independent of styling and position
-Alt attributes on all images
-Sequential heading order
-Clear and concise page title
+-Semantic HTML elements
+-Logical structure independent of styling and position
+-Alt attributes on all images
+-Sequential heading order
+-Clear and concise page title
 
 ## Built With
 * HTML
